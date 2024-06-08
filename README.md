@@ -49,7 +49,7 @@ python main.py
 5. Run the frontend
 
 ```sh
-cd backend
+cd frontend
 npm run dev
 ```
 
